@@ -5,7 +5,7 @@
 <h3 align="center"> KYUNG-HEE UNIV. Computer Engineering</h3>
 <br><br>
 
-###👋 Simple introduction
+### 👋 Simple introduction
 - 🔭 I’m interested in _**Back-end**_
 - 🌱 I’m currently learning _**nest.js, spring**_
 - 👯 I’m looking to collaborate on ...
