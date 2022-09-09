@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=Byeong-SeoK&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![helloworld](https://user-images.githubusercontent.com/61545957/167173380-133003bd-2e7b-42ba-9ad7-61a4171fe8a2.gif)
 
+<h1 align="center">Byeong-SeoK</h1>
 
-Here are some ideas to get you started:
+<h3 align="center"> KYUNG-HEE UNIV. Computer Engineering</h3>
+<br><br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
