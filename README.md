@@ -6,7 +6,7 @@
 <br><br>
 
 ### 👋 Simple introduction
-- 🔭 I’m interested in _**Back-end**_
+- 🔭 I’m interested in _**Cloud Computing**_
 - 🌱 I’m currently learning _**nest.js, spring**_
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
