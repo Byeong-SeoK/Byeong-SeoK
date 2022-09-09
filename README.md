@@ -1,7 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=Byeong-SeoK&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-<!--
-**Byeong-SeoK/Byeong-SeoK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+✨  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeong-SeoK&show_icons=true)
