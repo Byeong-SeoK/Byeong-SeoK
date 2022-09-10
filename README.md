@@ -16,7 +16,6 @@
 - ⚡ Fun fact: ...
 <br>
 
-
 ### 💪 Skills
 |Languages|Tools|Web Front-End|Web Back-End|
 |---|---|---|---|
@@ -25,6 +24,13 @@
 |Databases|Virtualization|
 |---|---|
 |<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;|<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/kubernetes-0B5394?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp;
+<br>
+
+### 🏆 Awards
+- Khuthon 우수상(2018)
+- Khuthon 최우수상(2021)
+- SVSTIP Team project 경진대회 2등 (2022)
+- SW 중심대학 공동 해커톤 후원기업 "클라썸" 상(2022)
 <br>
 
 ### 👩‍💻 My stats
