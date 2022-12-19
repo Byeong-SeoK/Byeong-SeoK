@@ -34,8 +34,9 @@
 - Khuthon 다우기술 특별상 (2022)
 <br>
 
-### ![image](https://user-images.githubusercontent.com/87558488/208430874-83745d90-fb03-41c5-8237-e2edd277d1af.png) Career
+### 🏢 Career
 
 <br>
+
 ### 👩‍💻 My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeong-SeoK&show_icons=true)
