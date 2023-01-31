@@ -28,6 +28,7 @@
 
 ### 👨🏻‍🏫 Education
 - SJSU SVSTIP (2021.01 ~ 2021.02)
+<br>
 
 ### 🏆 Awards
 - Khuthon 우수상 (2018)
