@@ -26,6 +26,9 @@
 |<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;|<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/kubernetes-0B5394?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp;
 <br>
 
+### 👨🏻‍🏫 Education
+- SJSU SVSTIP (2021.01 ~ 2021.02)
+
 ### 🏆 Awards
 - Khuthon 우수상 (2018)
 - Khuthon 최우수상 (2021)
