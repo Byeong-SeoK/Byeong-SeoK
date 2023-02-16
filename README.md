@@ -27,6 +27,7 @@
 <br>
 
 ### 👨🏻‍🏫 Education
+- Kyung-Hee UNIV. CSE (2018.03 ~ )
 - SJSU SVSTIP (2021.01 ~ 2021.02)
 <br>
 
