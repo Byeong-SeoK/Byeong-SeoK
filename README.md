@@ -33,8 +33,8 @@
 
 ### 🏆 Awards
 - Khuthon 우수상 (2018)
+- SVSTIP Team ideathon 2등 (2021)
 - Khuthon 최우수상 (2021)
-- SVSTIP Team ideathon 2등 (2022)
 - SW 중심대학 공동 해커톤 후원기업 "CLASSUM" 상 (2022)
 - Khuthon 다우기술 특별상 (2022)
 <br>
