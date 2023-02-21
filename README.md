@@ -40,7 +40,7 @@
 <br>
 
 ### 🏢 Career
-- 이노와이어리스 분석S/W 인턴 (2022.12 ~ 2023.02)
+- Innowireless Analysis S/W team Internship (2022.12 ~ 2023.02)
 <br>
 
 ### 👩‍💻 My stats
