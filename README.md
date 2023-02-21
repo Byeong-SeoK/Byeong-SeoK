@@ -40,7 +40,7 @@
 <br>
 
 ### 🏢 Career
-- Innowireless Analysis S/W develope team Internship (2022.12 ~ 2023.02)
+- Innowireless Analysis S/W development team Internship (2022.12 ~ 2023.02)
 <br>
 
 ### 👩‍💻 My stats
