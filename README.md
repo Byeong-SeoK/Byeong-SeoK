@@ -6,8 +6,8 @@
 <br><br>
 
 ### 👋 Simple introduction
-- 🔭 I’m interested in _**Cloud Computing**_
-- 🌱 I’m currently learning _**Nest.JS, Spring**_
+- 🔭 I’m interested in 
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
