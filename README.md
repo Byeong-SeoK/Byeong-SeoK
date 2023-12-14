@@ -27,7 +27,7 @@
 <br>
 
 ### 👨🏻‍🏫 Education
-- Kyung-Hee UNIV. CSE (2018.03 ~ )
+- Kyung-Hee UNIV. CSE (2018.03 ~ 2024.02)
 - SJSU SVSTIP (2022.01 ~ 2022.02)
 - University Makeus Challenge 3rd: Server part (2022.09 ~ 2023.02)
 <br>
