@@ -42,6 +42,7 @@
 
 ### 🏢 Career
 - Innowireless Analysis S/W development team Internship (2022.12 ~ 2023.02)
+- Hyundai Motors Group (2024.01 ~ )
 <br>
 
 ### 👩‍💻 My stats
